@@ -1,0 +1,8 @@
+{
+  "name": "MESSMATE Mobile",
+  "description": "A high-performance React Native application for campus dining management with Gemini AI insights.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
